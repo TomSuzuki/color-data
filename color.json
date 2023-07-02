@@ -389,6 +389,42 @@
                 "#FE0500",
                 "#2D2D2D"
             ]
+        },
+        {
+            "name": "資料1",
+            "sub_name": "表",
+            "key_color": "#4D74EA",
+            "color": [
+                "#4D74EA",
+                "#C07AEB",
+                "#63EBB0",
+                "#EBBE4B",
+                "#D1EB57"
+            ]
+        },
+        {
+            "name": "資料2",
+            "sub_name": "スライド",
+            "key_color": "#4D6B5E",
+            "color": [
+                "#2D6B50",
+                "#ABEED1",
+                "#63EBB0",
+                "#4D6B5E",
+                "#4DB889"
+            ]
+        },
+        {
+            "name": "資料3",
+            "sub_name": "スライド",
+            "key_color": "#656CB8",
+            "color": [
+                "#3B3F6B",
+                "#CACDEE",
+                "#818AEB",
+                "#5B5C6B",
+                "#656CB8"
+            ]
         }
     ]
 }
